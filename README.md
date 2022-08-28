@@ -50,3 +50,17 @@ CSS Background Source
 background-image: url(data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+LkVOVjwvdGl0bGU+PHBhdGggZD0iTTI0IDB2MjRIMFYwaDI0Wk0xMC45MzMgMTUuODlINi44NHY1LjUyaDQuMTk4di0uOTNINy45NTV2LTEuNTAzaDIuNzd2LS45M2gtMi43N3YtMS4yMjRoMi45Nzh2LS45MzRabTIuMTQ2IDBoLTEuMDg0djUuNTJoMS4wMzV2LTMuNmwyLjIyNiAzLjZoMS4xMTh2LTUuNTJoLTEuMDM2djMuNjg2bC0yLjI1OS0zLjY4N1ptNS4xMTcgMGgtMS4yMDhsMS45NzMgNS41MmgxLjE5bDEuOTc2LTUuNTJoLTEuMTgybC0xLjM1MiA0LjA4NS0xLjM5Ny00LjA4NlpNNS40IDE5LjY4SDMuNzJ2MS42OEg1LjR2LTEuNjhaIi8+PC9zdmc+Cg==)
 ```
 
+<img src="logos/dotenv-wordmark.svg" alt="dotenv wordmark" height="100"/>
+
+SVG
+```
+<svg role="img" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><title>.ENV</title><g><path fill="#ECD53F" d="M0 0h200v200H0z"/><path fill="#000" d="M31 164h14v14H31z"/><g fill="#000" fill-rule="nonzero"><path d="M91.986 178.41v-7.75H66.288v-12.52h23.094v-7.75H66.288v-10.198h24.82v-7.782H57v46zM108.585 178.41v-29.997l18.545 29.997h9.319v-46h-8.63v30.72l-18.826-30.72h-9.037v46zM167.92 178.41l16.474-46h-9.852l-11.265 34.045-11.641-34.045h-10.073l16.442 46z"/></g></g></svg>
+```
+
+<img src="logos/dotenv-monochrome-wordmark.svg" alt="dotenv wordmark" height="100"/>
+
+SVG
+```
+<svg role="img" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><title>.ENV</title><g><path fill="#ECD53F" d="M0 0h200v200H0z"/><path fill="#000" d="M31 164h14v14H31z"/><g fill="#000" fill-rule="nonzero"><path d="M91.986 178.41v-7.75H66.288v-12.52h23.094v-7.75H66.288v-10.198h24.82v-7.782H57v46zM108.585 178.41v-29.997l18.545 29.997h9.319v-46h-8.63v30.72l-18.826-30.72h-9.037v46zM167.92 178.41l16.474-46h-9.852l-11.265 34.045-11.641-34.045h-10.073l16.442 46z"/></g></g></svg>
+```
+
