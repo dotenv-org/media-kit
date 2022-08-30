@@ -2,6 +2,11 @@
 
 Hello! We've created some guidelines to help you use the Dotenv brand and assets.
 
+## Colors
+
+Black #000000
+Yellow #ECD53F
+
 ## Logos
 
 See `/logos` folder containing svg and png images.
